@@ -17,4 +17,4 @@ if __name__ == "__main__":
     print("Saving the CID list...")
     with open("cid_list.json", "w") as f:
         json.dump(CID_LIST, f)
-    print("Done! If you see this message, we've hopefully succeeded. 🌟")
+    print("Done! You have succesfully chowned your data! Decentralze 🐙")

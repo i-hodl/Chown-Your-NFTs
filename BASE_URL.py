@@ -1,0 +1,1 @@
+BASE_URL = 'https://api.rarible.org/v0.1/'

@@ -1,0 +1,4 @@
+
+### requirements.txt
+
+requests==2.26.0

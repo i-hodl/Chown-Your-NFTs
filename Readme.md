@@ -5,8 +5,7 @@
 
 ## About
 
-Chown Your NFTs is a Python script to download and archive your NFTs. It fetches the metadata and media files associated with your NFTs and saves them to your local machine. Powered by the Rarible Protocol. 
-
+Chown Your NFTs is a Python script to download and archive your NFTs. Created for my [iNode](https://ih0dl.eth.limo/iNode.html) Project. It fetches the metadata and media files associated with your NFTs and saves them to your local machine. Powered by the Rarible Protocol.
 ## Requirements
 
 - Python 3.x

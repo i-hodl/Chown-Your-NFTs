@@ -21,15 +21,15 @@ Chown Your NFTs is a Python script to download and archive your NFTs. It fetches
 
 ## Configuration
 
-1. Add your Rarible API key to `HEADERS.py` (create this file if it doesn't exist). Example:
+1. Create a file named "RARIBLE_API_KEY.py"
+
+2.Add your Rarible API key to `` (create this file if it doesn't exist). Example:
 
 ```python
-HEADERS = {
-    'x-api-key': 'YOUR_RARIBLE_API_KEY_HERE'
-}
+    'RARIBLE_API_KEY = 'PASTE-YOUR-API-KEY'
 ```
 
-2. Specify a contract address in `CONTRACT_ADDRESS.py`. Example:
+3. Specify a contract address in `CONTRACT_ADDRESS.py`. Example:
 
 ```python
 CONTRACT_ADDRESS = '0xYourContractAddressHere'
@@ -38,7 +38,7 @@ CONTRACT_ADDRESS = '0xYourContractAddressHere'
 ## Usage
 
 1. Run the script: `python chown.py`
-2. Let the magic happen! 🎉
+2. Let the magic happen! 🐙
 
 ## Contributing
 

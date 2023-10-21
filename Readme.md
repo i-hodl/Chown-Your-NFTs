@@ -11,7 +11,7 @@ Chown Your NFTs is a Python script to download and archive your NFTs. It fetches
 
 - Python 3.x
 - IPFS (Optional, but recommended)
-- Rarible API key (free) get one [here](https://api.rarible.org/registration?ref=ih0dl]
+- Rarible API key (free) get one [here](https://api.rarible.org/registration?ref=ih0dl)
 
 ## Installation
 

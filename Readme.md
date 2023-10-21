@@ -23,7 +23,7 @@ Chown Your NFTs is a Python script to download and archive your NFTs. It fetches
 
 1. Create a file named "RARIBLE_API_KEY.py"
 
-2.Add your Rarible API key to `` (create this file if it doesn't exist). Example:
+2.Add your Rarible API key to the file you just created. Example:
 
 ```python
     'RARIBLE_API_KEY = 'PASTE-YOUR-API-KEY'
